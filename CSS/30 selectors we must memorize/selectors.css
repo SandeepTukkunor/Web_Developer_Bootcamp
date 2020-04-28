@@ -1,0 +1,47 @@
+/* element */
+li {
+
+}
+
+/* Class */
+.selector  {
+
+}
+
+/* #id */
+#name  {
+
+}
+
+
+/* Star */
+
+* {
+    border: 1px solid lightgreen;
+}
+
+
+/* descendent selectors */
+li a {
+    color: red;
+
+}
+/*  this will select everythng in "a" inside of li */
+
+/* Adjacent selectors  */
+
+h4 + ul {
+    border: 4px solid red;
+}
+
+/* Attribute selectors */
+
+a[href = "https://www.google.com"] {
+    background-color: royalblue;
+}
+
+/* nth of type */
+
+ul:nth-of-type(2)  {
+    background: purple;
+}

@@ -1,0 +1,20 @@
+
+
+p {
+
+    /* width and Height  */
+    
+    width: 50%;
+
+
+    /* Border  */
+    border: 2px solid rgb(221, 255, 205);
+
+    /* Padding : the space between element and border  */
+    /* padding: 10px; */
+    padding-left: 40px;
+
+    /* margin */
+    /* margin: 100px; */
+    margin-top: 500px;
+}

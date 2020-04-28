@@ -1,0 +1,58 @@
+/* three possible ways which we can represent the colours is RGB, hexadecimals, and directly naming the color  */
+/* for hexa decimals and rgb we have to visit https://colours.neilorangepeel.com/ and https://htmlcolorcodes.com/ */
+/* apart from RGB , in order to make the color transparent, in case of RGB, at 4th position just type from 0.1- 1 , which will define its transpericy  */
+
+
+h1  {
+    color: #F5680D;
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: solid; */
+    border: 5px solid brown;
+}
+/* now little vut about border, it has 3 main parts width , color , style*/
+/* it can be used in every heading and lines */
+
+
+
+
+li  {
+    color: rgb(32, 216, 8);
+
+
+    
+
+    
+
+}
+
+
+h2   {
+    color: greenyellow;
+}
+
+h3   {
+    color: rgb(255,69,0);
+    background-color:rgb(169,169,169, 0.7);
+    
+}
+
+
+
+/* we can also  paste the link in place of color , we can use whichever image we want  */
+
+/* body  {
+    background: url(https://img.etimg.com/thumb/msid-71716075,width-643,imgsize-152896,resizemode-4/virat-kohli_afp.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+}  */
+
+
+body  {
+    background: salmon;
+} 
+
+
+
+
+

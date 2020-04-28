@@ -1,0 +1,43 @@
+body {
+    color: red;
+}
+
+
+ul  {
+    color: greenyellow;
+}
+
+li {
+    color: blue;
+}
+
+.highlite {
+    color: rgb(224, 224, 9);
+}
+
+#special  {
+    color: turquoise;
+}
+
+
+
+
+/* typer selectors */
+/* Type selectors are the least specific  */
+
+/* li  {
+
+} */
+
+/* Class Attribute, and Pseudo-slass , selectors  */
+/* They are 10 times more specific than selectors */
+/* .hello {
+
+} */
+
+
+/* Id's selectors */
+/* Id selectors are 10 times mire specific than attributes  */
+/* #hello  {
+
+} */

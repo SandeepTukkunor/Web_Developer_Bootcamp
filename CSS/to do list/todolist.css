@@ -1,0 +1,12 @@
+li {
+    border: 2px solid  red;
+}
+
+#Finish {
+    color:rgb(75,0,130);
+    background: yellow;
+}
+
+.completed {
+    text-decoration: line-through;
+}
