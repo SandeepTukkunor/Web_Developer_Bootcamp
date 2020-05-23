@@ -26,3 +26,23 @@ friends[4] = "Sagar";// the 4th element of the arry
 
 
 
+// we can initialize the array in two ways
+var friends = []// cerates an empty array, no friends
+var friends = new Array() //Uncommon 
+
+
+// arrays can hold any type of data
+
+var random_collection = [49, true, "heroine", null];
+
+
+//arrys have a length property 
+var nums = [12,12,34,23]; //random numbers 
+
+// by command nums.length 
+nums.length // we will get 4 
+
+
+
+
+
