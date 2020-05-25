@@ -13,7 +13,7 @@ while(input != "quit"){
         //ask for new to do 
         var newTodo = prompt("enter new todo");
         todos.push(newTodo);
-    }
+    }    
 
 
     input = prompt("what would you like to do ?")
