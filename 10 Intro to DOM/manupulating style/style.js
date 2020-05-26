@@ -10,3 +10,10 @@
 
 // tag.style.border = "5px solid pink"
 // adds the border 
+
+
+
+
+
+// worikng with the text 
+
