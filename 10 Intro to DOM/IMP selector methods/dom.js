@@ -25,6 +25,14 @@
 
 
 
+// so the main DOM manupulation elements are 
+// document.getElementsByName
+// document.getElementById
+// document.getElementsByClassName
+// document.querySelector
+// document.querySelectorAll
+
+
 
 
 
